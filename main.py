@@ -1,0 +1,2 @@
+name = 'ram'
+address = 'bhaktapur'
